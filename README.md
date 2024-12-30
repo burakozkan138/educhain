@@ -40,3 +40,6 @@ EduCert is a platform that allows educational institutions to issue NFT-based ce
 
 ### Personal Story:
 As a developer passionate about education and blockchain technology, I wanted to create a platform that could help institutions raise funds for educational purposes while providing students with tamper-proof certificates. EduCert combines my love for education with the power of decentralized technology to bring real value to students and institutions alike.
+
+### Embedding Link
+[EduCert Crowdfund Demo](https://embeddables.testnet.andromedaprotocol.io/galileo-4/EduCert-Crowdfund)
