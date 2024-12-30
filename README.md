@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# EduCert
 
-## Getting Started
+## Project Title:
+EduCert
 
-First, run the development server:
+## Project Description:
+EduCert is a platform that allows educational institutions to issue NFT-based certificates to students. The app enables institutions to fund educational projects through crowdfunding while offering verifiable blockchain-backed certificates to their students. It provides a seamless experience for both institutions and students in the form of easily accessible, secure, and unique NFT certificates.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Key Features:
+- **Crowdfunding**: Institutions can raise funds for educational projects.
+- **NFT Certificates**: Issuing unique, verifiable NFTs as student certificates.
+- **Blockchain Technology**: Ensures transparency and security of issued certificates.
+- **Institutional Dashboard**: A space for institutions to manage their crowdfunding campaigns.
+- **Student Dashboard**: A space for students to view and manage their NFTs.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Additional Features:
+- **Fund Distribution**: Transparent distribution of funds to designated recipients.
+- **Support for Multiple Campaigns**: Institutions can manage and launch multiple campaigns.
+- **Customizable NFT Metadata**: Institutions can tailor the NFT certificate data to fit their branding.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Future Scope:
+- **Integration with other blockchain networks**: To support cross-chain functionalities.
+- **Advanced Analytics**: For institutions to track crowdfunding progress and student participation.
+- **Mobile Application**: A mobile version of the app for better accessibility.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+### Vision:
+  EduCert aims to revolutionize the way educational institutions issue certificates by leveraging blockchain technology. This project strives to make education more accessible, transparent, and secure by offering NFT-based certificates that are immutable and verifiable. In the future, we aim to expand the platform to support a wider range of educational institutions globally and provide more advanced features for better tracking and engagement.
 
-To learn more about Next.js, take a look at the following resources:
+### Software Development Plan:
+1. **Crowdfunding App**: Implement the ADO (Andromeda Decentralized Object) for crowdfunding functionality, including NFT distribution and fund collection.
+2. **Institution Dashboard**: Build an interface for institutions to create, manage, and monitor crowdfunding campaigns.
+3. **Student Dashboard**: Create a dashboard for students to access and view their NFT certificates.
+4. **Smart Contracts**: Develop and deploy smart contracts for NFT minting and fund distribution using the Andromeda Protocol.
+5. **Frontend Development**: Create the frontend in React to integrate with the Andromeda Protocol backend and provide a user-friendly interface.
+6. **Deployment**: Deploy the platform on Andromeda Protocol and test all components in a live environment.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Personal Story:
+As a developer passionate about education and blockchain technology, I wanted to create a platform that could help institutions raise funds for educational purposes while providing students with tamper-proof certificates. EduCert combines my love for education with the power of decentralized technology to bring real value to students and institutions alike.
